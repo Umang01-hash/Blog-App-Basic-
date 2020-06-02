@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1528459584353-5297db1a9c01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1075&q=80);
+}
+i.icon{
+    font-size: 2em;
+}
+
+#delete{
+    display: inline;
+}
